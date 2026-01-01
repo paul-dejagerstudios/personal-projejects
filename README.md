@@ -1,8 +1,5 @@
 # personal-projejects
 Personal Projects - Code Academy 
-
-# [Project Name]
-
 This is a general catch-all project for Code Academy and personal project I am working on for personal development
 
 ## 🚀 Getting Started
